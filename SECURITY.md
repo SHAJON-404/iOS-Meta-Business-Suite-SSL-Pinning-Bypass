@@ -1,6 +1,6 @@
 # Security Policy & Educational Disclaimer
 
-This document outlines the security policies, educational disclaimers, and reporting procedures for the **iOS-Meta-Business-Suit-SSL-Pinning-Bypass** repository.
+This document outlines the security policies, educational disclaimers, and reporting procedures for the **iOS-Meta-Business-Suite-SSL-Pinning-Bypass** repository.
 
 ---
 
@@ -9,7 +9,7 @@ This document outlines the security policies, educational disclaimers, and repor
 The content, scripts, and documentation in this repository are provided **strictly for educational purposes, security analysis, personal learning, and academic research**. 
 
 * **Focus on Mobile Security:** This project aims to demonstrate how SSL pinning works on mobile devices and how security researchers can analyze transport-layer communications in a local, controlled environment.
-* **No Malicious Intent:** This repository does not encourage, facilitate, or promote unauthorized access, data theft, or any actions that disrupt the integrity of Meta Business Suite's services.
+* **No Malicious Intent:** This repository does not encourage, facilitate, or promote unauthorized access, data theft, or any actions that disrupt the integrity of Meta Business Suitee's services.
 * **Authorized Testing Only:** Users of this information are responsible for ensuring that they only intercept traffic on devices and accounts they own, or where they have explicit, written consent from the relevant parties.
 * **Compliance with Terms of Service:** Users should be aware that modifying application packages or intercepting application traffic may violate the application provider's (Meta) Terms of Service. It is the user's responsibility to understand and comply with these policies.
 

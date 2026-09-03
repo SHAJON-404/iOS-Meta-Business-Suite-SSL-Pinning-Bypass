@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🔐 iOS-Meta-Business-Suit-SSL-Pinning-Bypass
-📡 Capture and inspect Meta Business Suite's network traffic on iOS — no jailbreak required.
+# 🔐 iOS-Meta-Business-Suite-SSL-Pinning-Bypass
+📡 Capture and inspect Meta Business Suitee's network traffic on iOS — no jailbreak required.
 
 > 💡 **GOOD NEWS:** You do **not** need a jailbroken device to use this! It works flawlessly on **non-jailbroken** devices and has been successfully tested using **Mitmproxy**.
 
@@ -30,7 +30,7 @@
 6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
 7. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-9. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
@@ -84,7 +84,7 @@
  1. ⬇️ **Download the IPA file** from the repository's Releases section.
  2. 🔄 **Install the IPA** using [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign). *(Note: Use your personal certificate. Do NOT use public iOS IPA signing certificates.)*
  3. ⚙️ **Configure the local proxy** (e.g., mitmproxy) in your device's Wi-Fi settings.
- 4. 🚀 **Open the Meta Business Suit app**. You will immediately see a popup: *"Allow 'Meta Business Suit' to find devices on local networks?"*. ⚠️ You **MUST** tap **Allow**. Once allowed, all traffic will be seamlessly captured in `mitmproxy/mitmweb` without any issues.
+ 4. 🚀 **Open the Meta Business Suite app**. You will immediately see a popup: *"Allow 'Meta Business Suite' to find devices on local networks?"*. ⚠️ You **MUST** tap **Allow**. Once allowed, all traffic will be seamlessly captured in `mitmproxy/mitmweb` without any issues.
 
 ---
 
