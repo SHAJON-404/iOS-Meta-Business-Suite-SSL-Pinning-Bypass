@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **504.0.0.30.106**
+- App version: **509.0.0.24.104**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![Business Suite iOS](assets/v504.jpg)
+![Business Suite iOS](assets/v509.jpg)
 
 ---
 
@@ -53,7 +53,7 @@
   <tbody>
     <tr>
       <td align="center"><code>com.facebook.PageAdminApp</code></td>
-      <td align="center">504.0.0.30.106</td>
+      <td align="center">509.0.0.24.104</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
